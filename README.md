@@ -1,5 +1,6 @@
-👋 Hi, I’m @MarsToPluto. Unfortunately, it seems like we’re light-years apart—perhaps I'll never reach Pluto. 😔  
-⚡ Fun fact: Even though Pluto is cold and distant, my coding skills feel like they’re frozen in time.
+👨‍🚀 Greetings from the cosmos! I’m @MarsToPluto, journeying through the vast expanse of space. 
+🚀 While my path may not lead me to Pluto’s icy realm just yet, the adventure is out of this world! 🌟
+🌌 Fun Fact: Even though Pluto is distant and chilly, my coding skills are constantly orbiting new heights, ready to explore new frontiers. 🪐
 
 ## 🛠️ Tech Stack
 
