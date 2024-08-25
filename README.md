@@ -1,7 +1,6 @@
 👋 Hi, I’m @MarsToPluto. Unfortunately, it seems like we’re light-years apart—perhaps I'll never reach Pluto. 😔  
 ⚡ Fun fact: Even though Pluto is cold and distant, my coding skills feel like they’re frozen in time.
 
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,3 +23,20 @@
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Firefox Extension](https://img.shields.io/badge/Firefox%20Extension-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
+## 📊 GitHub Stats
+
+![MarsToPluto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsToPluto&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsToPluto&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarsToPluto&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🚀 Achievements
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MarsToPluto&theme=radical)
+
+## 🌟 Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MarsToPluto.MarsToPluto)
