@@ -2,7 +2,7 @@
 
 🚀 While my path may not lead me to Pluto’s icy realm just yet, the adventure is out of this world!
 
-🌌 Fun Fact: Even though Pluto is distant and chilly, my coding skills are constantly orbiting new heights, ready to explore new frontiers. 🪐
+🌌 Fun Fact: Even though Pluto is distant and chilly, my coding skills are constantly orbiting new heights, ready to explore new frontiers.
 
 
 ## 🛠️ Tech Stack
