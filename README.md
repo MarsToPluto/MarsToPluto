@@ -79,5 +79,4 @@
 ## ✨ Connect with Me
 
 * Twitter / X: [@Cytosine_G](https://x.com/Cytosine_G)  
-* Instagram: [@an0rn](https://www.instagram.com/an0rn/)  
-* LinkedIn: [Rijuwan Ahmed](https://www.linkedin.com/in/orbitum/)  
+* LinkedIn: [FFF](https://www.linkedin.com/in/orbitum/)  
