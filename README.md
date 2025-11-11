@@ -1,7 +1,4 @@
 # 👋 Hey, I'm @MarsToPluto!
-
-👨‍🚀 A software engineer charting the universe of tech—Mars to Pluto style! I build **robust, scalable solutions** while exploring the frontiers of AI, blockchain, and automated trading.
-
 ---
 
 ## 🔭 Current Focus & Interests
